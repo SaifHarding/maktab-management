@@ -104,4 +104,4 @@ A student management system for Islamic madrasahs and maktabs that centralizes s
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+Business Source License (BUSL-1.1) — see [LICENSE](LICENSE) for details.
