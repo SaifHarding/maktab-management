@@ -99,3 +99,9 @@ A student management system for Islamic madrasahs and maktabs that centralizes s
 - Row-Level Security (RLS) on all tables
 - Authenticated edge functions
 - Comprehensive audit logging
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
