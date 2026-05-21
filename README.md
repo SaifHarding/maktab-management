@@ -38,8 +38,12 @@ A student management system built for Islamic madrasahs and maktabs, centralisin
 - Per-group attendance history with date filters
 - Monthly reports highlighting low and perfect attendance
 
-[![Registration screenshot](docs/screenshots/Registration.png)](docs/screenshots/Registration.png)
-[![Attendance screenshot](docs/screenshots/attendance2.png)](docs/screenshots/attendance2.png)
+<table>
+  <tr>
+    <td><img src="docs/screenshots/Registration.png" width="380" alt="Registration" /></td>
+    <td><img src="docs/screenshots/attendance2.png" width="380" alt="Attendance" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -70,7 +74,7 @@ A student management system built for Islamic madrasahs and maktabs, centralisin
 - Notifications feed and profile self-management
 - PWA-installable with push notifications
 
-[![Parent portal screenshot](docs/screenshots/Parent-portal.png)](docs/screenshots/Parent-portal.png)
+<img src="docs/screenshots/Parent-portal.png" width="600" alt="Parent Portal" />
 
 ---
 
@@ -84,7 +88,7 @@ A student management system built for Islamic madrasahs and maktabs, centralisin
 - Email template preview and testing
 - Public website event manager
 
-[![Admin panel screenshot](docs/screenshots/Admin-Panel.png)](docs/screenshots/Admin-Panel.png)
+<img src="docs/screenshots/Admin-Panel.png" width="600" alt="Admin Panel" />
 
 ---
 
